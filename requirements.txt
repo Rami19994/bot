@@ -1,0 +1,5 @@
+python-telegram-bot
+tronpy
+requests
+gunicorn
+nest_asyncio
